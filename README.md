@@ -1,5 +1,5 @@
-# Fitting Poisson  distribution
-# Ex:2
+# Ex:02 Fitting Poisson  distribution
+
 # Date:15-9-23
 # Aim : 
 
