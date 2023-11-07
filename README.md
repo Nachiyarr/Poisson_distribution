@@ -1,4 +1,5 @@
 # Fitting Poisson  distribution
+# EX:2                      DATE:15-9-23
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -31,6 +32,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 # Program :
 
 DEVELOPED BY :ALAGU NACHIYAR K
+
 REG. NO. : 212222240006
 ```
 
