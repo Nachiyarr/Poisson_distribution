@@ -1,5 +1,6 @@
 # Fitting Poisson  distribution
-# EX:2                      DATE:15-9-23
+# EX:2
+# DATE:15-9-23
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
